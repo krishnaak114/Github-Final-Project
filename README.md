@@ -12,3 +12,5 @@ A calculator that calculates simple interest given principal, annual rate of int
 
 ## Usage
 Run the script and provide inputs when prompted.
+---
+© 2023 XYZ, Inc.
